@@ -1,0 +1,7 @@
+Here is the result : First file
+This file
+contains first section
+of the first book., Second file
+This file
+contains Second section
+of the Second book.
